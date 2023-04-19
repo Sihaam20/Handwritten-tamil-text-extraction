@@ -1,0 +1,8 @@
+easyocr==1.6.2
+numpy==1.24.2
+pandas==1.5.3
+Pillow==9.5.0
+python_docx==0.8.11
+scikit_learn==1.2.2
+streamlit==1.21.0
+torch==2.0.0
